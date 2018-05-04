@@ -10,10 +10,10 @@
 **small** @media only screen and (max-width: 735px)<br /><br />
 
 
-large-**X** = width<br /> 
-large-**offset**-X = margin-left<br />
-large-**push**-X = left: %; right: auto<br />
-large-**pull**-X = right: %; left: auto<br /><br />
+large-**X** — width<br /> 
+large-**offset**-X — margin-left<br />
+large-**push**-X — left: %; right: auto<br />
+large-**pull**-X — right: %; left: auto<br /><br />
 
 
 ### X

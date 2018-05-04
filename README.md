@@ -22,7 +22,7 @@
 
 
 large-**X** = width<br /> 
-large-**push**-X = margin-left<br />
+large-**offset**-X = margin-left<br />
 large-**push**-X = left: %; right: auto<br />
 large-**pull**-X = right: %; left: auto<br /><br />
 
@@ -31,7 +31,6 @@ large-**pull**-X = right: %; left: auto<br /><br />
 **large**<br /> 
 **medium** @media only screen and (max-width: 1068px)<br /> 
 **small** @media only screen and (max-width: 735px)<br /> 
-
 
 
 

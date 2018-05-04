@@ -1,4 +1,4 @@
-# apple.com grid layout explaining
+# apple.com grid layout classes explaining
 
 
 

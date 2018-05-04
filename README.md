@@ -1,6 +1,6 @@
 # apple.com grid classes explaining
 
-Example:<br /> 
+*EXAMPLE* :<br /> 
 ```html
 <div class="column xlarge-10 xlarge-push-1 large-8 large-push-2 small-12 small-push-0">Lorem Ipsum</div>
 ```

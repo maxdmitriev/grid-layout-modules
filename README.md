@@ -21,59 +21,22 @@
 
 
 
+large-**X**<br /> = width<br /> 
 
-### width
+large-**push**-X = margin-left<br />
 
-xlarge-X<br /> 
-large-X<br /> 
-medium-X<br /> 
-small-X<br /><br /><br /> 
+large-**push**-X = left: %; right: auto<br />
 
-
-
-### margin-left
-
-xlarge-**offset**-X<br /> 
-large-**offset**-X<br /> 
-medium-**offset**-X<br /> 
-small-**offset**-X<br /><br /><br /> 
+large-**pull**-X = right: %; left: auto<br /><br />
 
 
+**xlarge** @media only screen and (min-width: 1442px)<br /> 
 
+**large**<br /> 
 
+**medium** @media only screen and (max-width: 1068px)<br /> 
 
-### left: %; right: auto
-
-xlarge-**push**-X<br /> 
-large-**push**-X<br /> 
-medium-**push**-X<br /> 
-small-**push**-X<br /><br /><br /> 
-
-
-
-### right: %; left: auto
-
-xlarge-**pull**-X<br /> 
-large-**pull**-X<br /> 
-medium-**pull**-X<br /> 
-small-**pull**-X<br /><br /><br /> 
-
-
-
-
-**xlarge**<br /> 
-min-width: 1442px<br /><br /> 
-
-**large**<br /><br /> 
-
-**medium**<br /> 
-max-width: 1068px<br /><br /> 
-
-**small**<br />
-max-width: 735px<br /><br /> 
-
-
-
+**small** @media only screen and (max-width: 735px)<br /> 
 
 
 

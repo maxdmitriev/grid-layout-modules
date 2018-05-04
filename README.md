@@ -1,10 +1,10 @@
-# grid-layout-modules
+# apple.com grid layout
 
 
 
 
 
-X
+#### X
 
 12 = 100%
 11 = 91.66667%
@@ -22,7 +22,7 @@ X
 
 
 
-width
+#### width
 
 xlarge-X
 large-X
@@ -31,7 +31,7 @@ small-X
 
 
 
-margin-left
+#### margin-left
 
 xlarge-offset-X
 large-offset-X
@@ -42,8 +42,8 @@ small-offset-X
 
 
 
-left: %
-right: auto
+#### left: %
+#### right: auto
 
 xlarge-push-X
 large-push-X
@@ -52,8 +52,8 @@ small-push-X
 
 
 
-right: %;
-left: auto
+#### right: %;
+#### left: auto
 
 xlarge-pull-X
 large-pull-X
@@ -63,15 +63,15 @@ small-pull-X
 
 
 
-xlarge
+#### xlarge
 min-width: 1442px
 
-large
+#### large
 
-medium
+#### medium
 max-width: 1068px
 
-small
+#### small
 max-width: 735px
 
 

@@ -4,6 +4,18 @@
 
 
 
+**xlarge** @media only screen and (min-width: 1442px)<br /> 
+**large**<br /> 
+**medium** @media only screen and (max-width: 1068px)<br /> 
+**small** @media only screen and (max-width: 735px)<br /><br />
+
+
+large-**X** = width<br /> 
+large-**offset**-X = margin-left<br />
+large-**push**-X = left: %; right: auto<br />
+large-**pull**-X = right: %; left: auto<br /><br />
+
+
 ### X
 
 **12** = 100%<br /> 
@@ -18,19 +30,6 @@
 **3** = 25%<br /> 
 **2** = 16.66667%<br /> 
 **1** = 8.33333%;<br /><br /><br /> 
-
-
-
-large-**X** = width<br /> 
-large-**offset**-X = margin-left<br />
-large-**push**-X = left: %; right: auto<br />
-large-**pull**-X = right: %; left: auto<br /><br />
-
-
-**xlarge** @media only screen and (min-width: 1442px)<br /> 
-**large**<br /> 
-**medium** @media only screen and (max-width: 1068px)<br /> 
-**small** @media only screen and (max-width: 735px)<br /> 
 
 
 

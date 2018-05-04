@@ -4,10 +4,10 @@
 
 
 
-**xlarge** = @media only screen and (min-width: 1442px)<br /> 
+**xlarge** @media only screen and (min-width: 1442px)<br /> 
 **large**<br /> 
-**medium** = @media only screen and (max-width: 1068px)<br /> 
-**small** = @media only screen and (max-width: 735px)<br /><br />
+**medium** @media only screen and (max-width: 1068px)<br /> 
+**small** @media only screen and (max-width: 735px)<br /><br />
 
 
 large-**X** = width<br /> 

@@ -21,21 +21,15 @@
 
 
 
-large-**X** = width
-
-large-**push**-X = margin-left
-
-large-**push**-X = left: %; right: auto
-
-large-**pull**-X = right: %; left: auto<br />
+large-**X** = width<br /> 
+large-**push**-X = margin-left<br />
+large-**push**-X = left: %; right: auto<br />
+large-**pull**-X = right: %; left: auto<br /><br />
 
 
 **xlarge** @media only screen and (min-width: 1442px)<br /> 
-
 **large**<br /> 
-
 **medium** @media only screen and (max-width: 1068px)<br /> 
-
 **small** @media only screen and (max-width: 735px)<br /> 
 
 

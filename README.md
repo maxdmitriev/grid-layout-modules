@@ -21,7 +21,7 @@
 
 
 
-large-**X**<br /> = width<br /> 
+large-**X** = width<br /> 
 
 large-**push**-X = margin-left<br />
 

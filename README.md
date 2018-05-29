@@ -1,4 +1,4 @@
-_Grid layout module that provides control over the element width and the X-position across x-large, large, medium and small screen sizes. (Currently used on apple.com)_
+_Grid layout module that provides control over the element width and the X-position across xlarge, large, medium and small screen sizes. (Currently used on apple.com)_
 
 *EXAMPLE* :<br /> 
 ```html
@@ -20,7 +20,7 @@ large-**push**-X — left: %; right: auto<br />
 large-**pull**-X — right: %; left: auto<br /><br />
 
 
-### X
+### "X"
 
 **12** = 100%<br /> 
 **11** = 91.66667%<br /> 

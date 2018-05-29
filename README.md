@@ -1,11 +1,11 @@
-# apple.com grid classes explaining
+_Grid layout module that provides control over the element width and the X-position across x-large, large, medium and small screen sizes. (Currently used on apple.com)_
 
 *EXAMPLE* :<br /> 
 ```html
 <div class="column xlarge-10 xlarge-push-1 large-8 large-push-2 small-12 small-push-0">Lorem Ipsum</div>
 ```
 
-
+# CSS classes explaining
 
 
 **xlarge** @media only screen and (min-width: 1442px)<br /> 
@@ -34,6 +34,8 @@ large-**pull**-X — right: %; left: auto<br /><br />
 **3** = 25%<br /> 
 **2** = 16.66667%<br /> 
 **1** = 8.33333%;<br /><br /><br /> 
+
+
 
 
 
